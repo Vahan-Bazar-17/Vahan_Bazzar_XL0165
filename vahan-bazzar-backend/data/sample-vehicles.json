@@ -1,0 +1,1025 @@
+[
+  {
+    "id": "VB001",
+    "category": "Bike",
+    "sub_type": "Sports",
+    "fuel_type": "Petrol",
+    "brand": "Yamaha",
+    "model": "R15 V4",
+    "variant": "M",
+    "year": 2024,
+    "engine": {
+      "capacity_cc": 155,
+      "cylinders": 1,
+      "cooling": "Liquid",
+      "max_power_bhp": 18.1,
+      "max_torque_nm": 14.2,
+      "fuel_system": "Fuel Injection"
+    },
+    "dimensions": {
+      "length_mm": 1990,
+      "width_mm": 730,
+      "height_mm": 1135,
+      "wheelbase_mm": 1325,
+      "ground_clearance_mm": 170,
+      "seat_capacity": 2,
+      "seat_height_mm": 815,
+      "kerb_weight_kg": 142,
+      "fuel_tank_capacity_l": 11
+    },
+    "performance": {
+      "top_speed_kmph": 140,
+      "mileage_kmpl": 45
+    },
+    "features": {
+      "safety": ["ABS", "LED Headlight", "Digital Display"],
+      "comfort": ["Split Seat", "Clip-on Handlebars"],
+      "technology": ["Y-Connect App", "Traction Control", "Quick Shifter"]
+    },
+    "pricing": {
+      "ex_showroom_inr": 182500,
+      "on_road_inr": 195000
+    },
+    "availability": {
+      "in_stock": true,
+      "delivery_time_days": 7
+    },
+    "images": {
+      "thumbnail": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=400",
+      "gallery": [
+        "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=800",
+        "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?w=800"
+      ]
+    },
+    "ratings": {
+      "expert_rating": 4.5,
+      "user_rating": 4.3,
+      "reviews_count": 1250
+    }
+  },
+  {
+    "id": "VB002",
+    "category": "Scooter",
+    "sub_type": "Electric",
+    "fuel_type": "Electric",
+    "brand": "Ola",
+    "model": "S1 Pro",
+    "variant": "Gen 2",
+    "year": 2024,
+    "battery": {
+      "capacity_kwh": 4,
+      "charging_time_hours": 4.5,
+      "fast_charging": true,
+      "range_km": 195
+    },
+    "dimensions": {
+      "length_mm": 1860,
+      "width_mm": 700,
+      "height_mm": 1150,
+      "wheelbase_mm": 1300,
+      "ground_clearance_mm": 165,
+      "seat_capacity": 2,
+      "seat_height_mm": 780,
+      "kerb_weight_kg": 125,
+      "fuel_tank_capacity_l": 0
+    },
+    "performance": {
+      "top_speed_kmph": 116,
+      "mileage_kmpl": 0
+    },
+    "features": {
+      "safety": ["Regenerative Braking", "LED Headlight", "Digital Display"],
+      "comfort": ["Under-seat Storage", "Mobile App Control"],
+      "technology": ["Ola MoveOS", "Voice Commands", "GPS Navigation"]
+    },
+    "pricing": {
+      "ex_showroom_inr": 139999,
+      "on_road_inr": 150000
+    },
+    "availability": {
+      "in_stock": true,
+      "delivery_time_days": 10
+    },
+    "images": {
+      "thumbnail": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=400",
+      "gallery": [
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800",
+        "https://images.unsplash.com/photo-1593941707882-a5bac6861d75?w=800"
+      ]
+    },
+    "ratings": {
+      "expert_rating": 4.2,
+      "user_rating": 4.0,
+      "reviews_count": 890
+    }
+  },
+  {
+    "id": "VB003",
+    "category": "Bike",
+    "sub_type": "Commuter",
+    "fuel_type": "Petrol",
+    "brand": "Honda",
+    "model": "Shine 100",
+    "variant": "Drum",
+    "year": 2024,
+    "engine": {
+      "capacity_cc": 100,
+      "cylinders": 1,
+      "cooling": "Air",
+      "max_power_bhp": 7.5,
+      "max_torque_nm": 8.05,
+      "fuel_system": "Carburetor"
+    },
+    "dimensions": {
+      "length_mm": 2015,
+      "width_mm": 750,
+      "height_mm": 1085,
+      "wheelbase_mm": 1285,
+      "ground_clearance_mm": 168,
+      "seat_capacity": 2,
+      "seat_height_mm": 790,
+      "kerb_weight_kg": 108,
+      "fuel_tank_capacity_l": 9.5
+    },
+    "performance": {
+      "top_speed_kmph": 90,
+      "mileage_kmpl": 65
+    },
+    "features": {
+      "safety": ["CBS", "LED Headlight"],
+      "comfort": ["Comfortable Seat", "Easy Start"],
+      "technology": ["Digital Odometer", "Service Reminder"]
+    },
+    "pricing": {
+      "ex_showroom_inr": 75000,
+      "on_road_inr": 82000
+    },
+    "availability": {
+      "in_stock": true,
+      "delivery_time_days": 3
+    },
+    "images": {
+      "thumbnail": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=400",
+      "gallery": [
+        "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=800"
+      ]
+    },
+    "ratings": {
+      "expert_rating": 4.0,
+      "user_rating": 4.2,
+      "reviews_count": 2100
+    }
+  },
+  {
+    "id": "VB004",
+    "category": "Scooter",
+    "sub_type": "Electric",
+    "fuel_type": "Electric",
+    "brand": "TVS",
+    "model": "iQube",
+    "variant": "ST",
+    "year": 2024,
+    "battery": {
+      "capacity_kwh": 4.56,
+      "charging_time_hours": 4.5,
+      "fast_charging": true,
+      "range_km": 100
+    },
+    "dimensions": {
+      "length_mm": 1850,
+      "width_mm": 700,
+      "height_mm": 1150,
+      "wheelbase_mm": 1300,
+      "ground_clearance_mm": 160,
+      "seat_capacity": 2,
+      "seat_height_mm": 780,
+      "kerb_weight_kg": 118,
+      "fuel_tank_capacity_l": 0
+    },
+    "performance": {
+      "top_speed_kmph": 82,
+      "mileage_kmpl": 0
+    },
+    "features": {
+      "safety": ["Regenerative Braking", "LED Headlight", "Digital Display"],
+      "comfort": ["Under-seat Storage", "Mobile App"],
+      "technology": ["TVS SmartXonnect", "Geo-fencing", "Battery Management"]
+    },
+    "pricing": {
+      "ex_showroom_inr": 110000,
+      "on_road_inr": 120000
+    },
+    "availability": {
+      "in_stock": true,
+      "delivery_time_days": 7
+    },
+    "images": {
+      "thumbnail": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=400",
+      "gallery": [
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800"
+      ]
+    },
+    "ratings": {
+      "expert_rating": 4.1,
+      "user_rating": 3.9,
+      "reviews_count": 650
+    }
+  },
+  {
+    "id": "VB005",
+    "category": "Bike",
+    "sub_type": "Adventure",
+    "fuel_type": "Petrol",
+    "brand": "Royal Enfield",
+    "model": "Himalayan 450",
+    "variant": "Base",
+    "year": 2024,
+    "engine": {
+      "capacity_cc": 452,
+      "cylinders": 1,
+      "cooling": "Liquid",
+      "max_power_bhp": 40,
+      "max_torque_nm": 40,
+      "fuel_system": "Fuel Injection"
+    },
+    "dimensions": {
+      "length_mm": 2245,
+      "width_mm": 840,
+      "height_mm": 1360,
+      "wheelbase_mm": 1510,
+      "ground_clearance_mm": 230,
+      "seat_capacity": 2,
+      "seat_height_mm": 825,
+      "kerb_weight_kg": 196,
+      "fuel_tank_capacity_l": 17
+    },
+    "performance": {
+      "top_speed_kmph": 140,
+      "mileage_kmpl": 25
+    },
+    "features": {
+      "safety": ["ABS", "LED Headlight", "Digital Display"],
+      "comfort": ["Split Seat", "Adjustable Windscreen"],
+      "technology": ["Tripper Navigation", "Ride Modes", "Traction Control"]
+    },
+    "pricing": {
+      "ex_showroom_inr": 285000,
+      "on_road_inr": 310000
+    },
+    "availability": {
+      "in_stock": false,
+      "delivery_time_days": 30
+    },
+    "images": {
+      "thumbnail": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=400",
+      "gallery": [
+        "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=800",
+        "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?w=800"
+      ]
+    },
+    "ratings": {
+      "expert_rating": 4.4,
+      "user_rating": 4.1,
+      "reviews_count": 320
+    }
+  },
+  {
+    "id": "C001",
+    "category": "Car",
+    "sub_type": "SUV",
+    "fuel_type": "Petrol",
+    "brand": "Toyota",
+    "model": "Fortuner",
+    "variant": "4x4 AT",
+    "year": 2024,
+    "engine": {
+      "capacity_cc": 2755,
+      "cylinders": 4,
+      "cooling": "Water-cooled",
+      "max_power_bhp": 201,
+      "max_torque_nm": 500,
+      "fuel_system": "Turbocharged Petrol"
+    },
+    "battery": null,
+    "dimensions": {
+      "length_mm": 4795,
+      "width_mm": 1855,
+      "height_mm": 1835,
+      "wheelbase_mm": 2745,
+      "ground_clearance_mm": 225,
+      "seat_capacity": 7,
+      "kerb_weight_kg": 2150,
+      "fuel_tank_capacity_l": 80
+    },
+    "performance": {
+      "top_speed_kmph": 176,
+      "mileage_kmpl": 12
+    },
+    "features": {
+      "safety": ["Airbags", "ABS", "Hill Assist"],
+      "comfort": ["AC", "Leather Seats", "Cruise Control"],
+      "technology": ["Touchscreen Display", "Bluetooth", "Apple CarPlay"]
+    },
+    "pricing": {
+      "ex_showroom_inr": 4200000,
+      "on_road_inr": 4800000
+    },
+    "availability": {
+      "in_stock": true,
+      "delivery_time_days": 30
+    },
+    "images": {
+      "thumbnail": "https://images.unsplash.com/photo-1549317336-206569e8475c?w=400",
+      "gallery": [
+        "https://images.unsplash.com/photo-1549317336-206569e8475c?w=800",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800"
+      ]
+    },
+    "ratings": {
+      "expert_rating": 4.7,
+      "user_rating": 4.5,
+      "reviews_count": 1200
+    }
+  },
+  {
+    "id": "C002",
+    "category": "Car",
+    "sub_type": "EV",
+    "fuel_type": "Electric",
+    "brand": "Tata",
+    "model": "Nexon EV",
+    "variant": "XZ+",
+    "year": 2024,
+    "engine": null,
+    "battery": {
+      "capacity_kwh": 40,
+      "charging_time_hours": 8,
+      "fast_charging": true,
+      "range_km": 312
+    },
+    "dimensions": {
+      "length_mm": 3993,
+      "width_mm": 1811,
+      "height_mm": 1606,
+      "wheelbase_mm": 2501,
+      "ground_clearance_mm": 205,
+      "seat_capacity": 5,
+      "kerb_weight_kg": 1370,
+      "fuel_tank_capacity_l": 0
+    },
+    "performance": {
+      "top_speed_kmph": 120,
+      "mileage_kmpl": null
+    },
+    "features": {
+      "safety": ["ABS", "Airbags", "ESC"],
+      "comfort": ["Automatic AC", "Touchscreen Media", "Leather Seats"],
+      "technology": ["Navigation", "OTA Updates", "App Control"]
+    },
+    "pricing": {
+      "ex_showroom_inr": 1450000,
+      "on_road_inr": 1650000
+    },
+    "availability": {
+      "in_stock": true,
+      "delivery_time_days": 25
+    },
+    "images": {
+      "thumbnail": "https://images.unsplash.com/photo-1593941707882-a5bac6861d75?w=400",
+      "gallery": [
+        "https://images.unsplash.com/photo-1593941707882-a5bac6861d75?w=800",
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800"
+      ]
+    },
+    "ratings": {
+      "expert_rating": 4.6,
+      "user_rating": 4.4,
+      "reviews_count": 900
+    }
+  },
+  {
+    "id": "B001",
+    "category": "Bike",
+    "sub_type": "Cruiser",
+    "fuel_type": "Petrol",
+    "brand": "Royal Enfield",
+    "model": "Meteor 350",
+    "variant": "Supernova",
+    "year": 2024,
+    "engine": {
+      "capacity_cc": 349,
+      "cylinders": 1,
+      "cooling": "Air-cooled",
+      "max_power_bhp": 20.4,
+      "max_torque_nm": 27,
+      "fuel_system": "Fuel Injection"
+    },
+    "battery": null,
+    "dimensions": {
+      "length_mm": 2140,
+      "width_mm": 845,
+      "height_mm": 1140,
+      "wheelbase_mm": 1400,
+      "ground_clearance_mm": 170,
+      "seat_height_mm": 765,
+      "kerb_weight_kg": 191,
+      "fuel_tank_capacity_l": 15
+    },
+    "performance": {
+      "top_speed_kmph": 120,
+      "mileage_kmpl": 35
+    },
+    "features": {
+      "safety": ["Disc Brakes", "ABS"],
+      "comfort": ["Electric Start", "USB Charging"],
+      "technology": ["Digital Tripper Navigation", "Bluetooth"]
+    },
+    "pricing": {
+      "ex_showroom_inr": 240000,
+      "on_road_inr": 270000
+    },
+    "availability": {
+      "in_stock": true,
+      "delivery_time_days": 15
+    },
+    "images": {
+      "thumbnail": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=400",
+      "gallery": [
+        "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=800",
+        "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?w=800"
+      ]
+    },
+    "ratings": {
+      "expert_rating": 4.6,
+      "user_rating": 4.4,
+      "reviews_count": 890
+    }
+  },
+  {
+    "id": "B002",
+    "category": "Bike",
+    "sub_type": "EV",
+    "fuel_type": "Electric",
+    "brand": "Ola Electric",
+    "model": "S1 Pro",
+    "variant": "Gen 2",
+    "year": 2024,
+    "engine": null,
+    "battery": {
+      "capacity_kwh": 4,
+      "charging_time_hours": 6.5,
+      "fast_charging": true,
+      "range_km": 181
+    },
+    "dimensions": {
+      "length_mm": 1859,
+      "width_mm": 712,
+      "height_mm": 1160,
+      "wheelbase_mm": 1359,
+      "ground_clearance_mm": 165,
+      "seat_height_mm": 792,
+      "kerb_weight_kg": 125
+    },
+    "performance": {
+      "top_speed_kmph": 120,
+      "mileage_kmpl": null
+    },
+    "features": {
+      "safety": ["Combined Braking System"],
+      "comfort": ["Reverse Mode", "Keyless Start"],
+      "technology": ["7-inch Touchscreen", "OTA Updates", "Navigation"]
+    },
+    "pricing": {
+      "ex_showroom_inr": 140000,
+      "on_road_inr": 160000
+    },
+    "availability": {
+      "in_stock": true,
+      "delivery_time_days": 10
+    },
+    "images": {
+      "thumbnail": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=400",
+      "gallery": [
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800",
+        "https://images.unsplash.com/photo-1593941707882-a5bac6861d75?w=800"
+      ]
+    },
+    "ratings": {
+      "expert_rating": 4.3,
+      "user_rating": 4.1,
+      "reviews_count": 650
+    }
+  },
+  {
+    "id": "S001",
+    "category": "Scooter",
+    "sub_type": "Petrol",
+    "fuel_type": "Petrol",
+    "brand": "Honda",
+    "model": "Activa 6G",
+    "variant": "Standard",
+    "year": 2024,
+    "engine": {
+      "capacity_cc": 109,
+      "cylinders": 1,
+      "cooling": "Air-cooled",
+      "max_power_bhp": 7.68,
+      "max_torque_nm": 8.79,
+      "fuel_system": "Fuel Injection"
+    },
+    "battery": null,
+    "dimensions": {
+      "length_mm": 1833,
+      "width_mm": 702,
+      "height_mm": 1077,
+      "wheelbase_mm": 1230,
+      "ground_clearance_mm": 170,
+      "seat_height_mm": 765,
+      "kerb_weight_kg": 111,
+      "fuel_tank_capacity_l": 5.3
+    },
+    "performance": {
+      "top_speed_kmph": 83,
+      "mileage_kmpl": 60
+    },
+    "features": {
+      "safety": ["Combined Braking System", "CBS"],
+      "comfort": ["Tubeless Tyres", "LED Headlamp"],
+      "technology": ["Digital Meter", "Mobile Charging Port"]
+    },
+    "pricing": {
+      "ex_showroom_inr": 72000,
+      "on_road_inr": 85000
+    },
+    "availability": {
+      "in_stock": true,
+      "delivery_time_days": 7
+    },
+    "images": {
+      "thumbnail": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=400",
+      "gallery": [
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800",
+        "https://images.unsplash.com/photo-1593941707882-a5bac6861d75?w=800"
+      ]
+    },
+    "ratings": {
+      "expert_rating": 4.4,
+      "user_rating": 4.2,
+      "reviews_count": 780
+    }
+  },
+  {
+    "id": "S002",
+    "category": "Scooter",
+    "sub_type": "EV",
+    "fuel_type": "Electric",
+    "brand": "Ola Electric",
+    "model": "S1 Pro",
+    "variant": "Gen 2",
+    "year": 2024,
+    "engine": null,
+    "battery": {
+      "capacity_kwh": 4,
+      "charging_time_hours": 6.5,
+      "fast_charging": true,
+      "range_km": 181
+    },
+    "dimensions": {
+      "length_mm": 1859,
+      "width_mm": 712,
+      "height_mm": 1160,
+      "wheelbase_mm": 1359,
+      "ground_clearance_mm": 165,
+      "seat_height_mm": 792,
+      "kerb_weight_kg": 125
+    },
+    "performance": {
+      "top_speed_kmph": 120,
+      "mileage_kmpl": null
+    },
+    "features": {
+      "safety": ["Combined Braking System"],
+      "comfort": ["Reverse Mode", "Keyless Start"],
+      "technology": ["7-inch Touchscreen", "OTA Updates", "Navigation"]
+    },
+    "pricing": {
+      "ex_showroom_inr": 140000,
+      "on_road_inr": 160000
+    },
+    "availability": {
+      "in_stock": true,
+      "delivery_time_days": 10
+    },
+    "images": {
+      "thumbnail": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=400",
+      "gallery": [
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800",
+        "https://images.unsplash.com/photo-1593941707882-a5bac6861d75?w=800"
+      ]
+    },
+    "ratings": {
+      "expert_rating": 4.3,
+      "user_rating": 4.1,
+      "reviews_count": 650
+    }
+  },
+  {
+    "id": "B003",
+    "category": "Bike",
+    "sub_type": "Sports",
+    "fuel_type": "Petrol",
+    "brand": "KTM",
+    "model": "Duke 390",
+    "variant": "Orange",
+    "year": 2024,
+    "engine": {
+      "capacity_cc": 373,
+      "cylinders": 1,
+      "cooling": "Liquid",
+      "max_power_bhp": 43,
+      "max_torque_nm": 37,
+      "fuel_system": "Fuel Injection"
+    },
+    "battery": null,
+    "dimensions": {
+      "length_mm": 2002,
+      "width_mm": 821,
+      "height_mm": 1267,
+      "wheelbase_mm": 1357,
+      "ground_clearance_mm": 185,
+      "seat_height_mm": 820,
+      "kerb_weight_kg": 149,
+      "fuel_tank_capacity_l": 13.4
+    },
+    "performance": {
+      "top_speed_kmph": 170,
+      "mileage_kmpl": 25
+    },
+    "features": {
+      "safety": ["ABS", "Traction Control", "Cornering ABS"],
+      "comfort": ["Adjustable Suspension", "Digital Display"],
+      "technology": ["Ride Modes", "Smartphone Connectivity", "LED Lighting"]
+    },
+    "pricing": {
+      "ex_showroom_inr": 320000,
+      "on_road_inr": 360000
+    },
+    "availability": {
+      "in_stock": true,
+      "delivery_time_days": 20
+    },
+    "images": {
+      "thumbnail": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=400",
+      "gallery": [
+        "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=800",
+        "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?w=800"
+      ]
+    },
+    "ratings": {
+      "expert_rating": 4.8,
+      "user_rating": 4.6,
+      "reviews_count": 1200
+    }
+  },
+  {
+    "id": "B004",
+    "category": "Bike",
+    "sub_type": "Commuter",
+    "fuel_type": "Petrol",
+    "brand": "Bajaj",
+    "model": "Pulsar 150",
+    "variant": "Dual Disc",
+    "year": 2024,
+    "engine": {
+      "capacity_cc": 149,
+      "cylinders": 1,
+      "cooling": "Air",
+      "max_power_bhp": 14,
+      "max_torque_nm": 13.25,
+      "fuel_system": "Fuel Injection"
+    },
+    "battery": null,
+    "dimensions": {
+      "length_mm": 2055,
+      "width_mm": 750,
+      "height_mm": 1160,
+      "wheelbase_mm": 1320,
+      "ground_clearance_mm": 165,
+      "seat_height_mm": 790,
+      "kerb_weight_kg": 140,
+      "fuel_tank_capacity_l": 14
+    },
+    "performance": {
+      "top_speed_kmph": 110,
+      "mileage_kmpl": 50
+    },
+    "features": {
+      "safety": ["Dual Disc Brakes", "ABS"],
+      "comfort": ["Digital Display", "LED Headlight"],
+      "technology": ["Mobile App", "USB Charging"]
+    },
+    "pricing": {
+      "ex_showroom_inr": 120000,
+      "on_road_inr": 135000
+    },
+    "availability": {
+      "in_stock": true,
+      "delivery_time_days": 5
+    },
+    "images": {
+      "thumbnail": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=400",
+      "gallery": [
+        "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=800"
+      ]
+    },
+    "ratings": {
+      "expert_rating": 4.2,
+      "user_rating": 4.0,
+      "reviews_count": 1800
+    }
+  },
+  {
+    "id": "S003",
+    "category": "Scooter",
+    "sub_type": "Petrol",
+    "fuel_type": "Petrol",
+    "brand": "TVS",
+    "model": "Jupiter 125",
+    "variant": "ZX",
+    "year": 2024,
+    "engine": {
+      "capacity_cc": 124,
+      "cylinders": 1,
+      "cooling": "Air",
+      "max_power_bhp": 8.4,
+      "max_torque_nm": 10.5,
+      "fuel_system": "Fuel Injection"
+    },
+    "battery": null,
+    "dimensions": {
+      "length_mm": 1890,
+      "width_mm": 710,
+      "height_mm": 1100,
+      "wheelbase_mm": 1280,
+      "ground_clearance_mm": 180,
+      "seat_height_mm": 780,
+      "kerb_weight_kg": 108,
+      "fuel_tank_capacity_l": 5.1
+    },
+    "performance": {
+      "top_speed_kmph": 85,
+      "mileage_kmpl": 55
+    },
+    "features": {
+      "safety": ["Combined Braking System", "LED Headlight"],
+      "comfort": ["Digital Display", "Mobile Charging"],
+      "technology": ["SmartXonnect App", "Geo-fencing"]
+    },
+    "pricing": {
+      "ex_showroom_inr": 85000,
+      "on_road_inr": 95000
+    },
+    "availability": {
+      "in_stock": true,
+      "delivery_time_days": 7
+    },
+    "images": {
+      "thumbnail": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=400",
+      "gallery": [
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800",
+        "https://images.unsplash.com/photo-1593941707882-a5bac6861d75?w=800"
+      ]
+    },
+    "ratings": {
+      "expert_rating": 4.3,
+      "user_rating": 4.1,
+      "reviews_count": 950
+    }
+  },
+  {
+    "id": "C003",
+    "category": "Car",
+    "sub_type": "Sedan",
+    "fuel_type": "Petrol",
+    "brand": "Honda",
+    "model": "City",
+    "variant": "VX CVT",
+    "year": 2024,
+    "engine": {
+      "capacity_cc": 1498,
+      "cylinders": 4,
+      "cooling": "Water-cooled",
+      "max_power_bhp": 121,
+      "max_torque_nm": 145,
+      "fuel_system": "i-VTEC"
+    },
+    "battery": null,
+    "dimensions": {
+      "length_mm": 4549,
+      "width_mm": 1748,
+      "height_mm": 1489,
+      "wheelbase_mm": 2600,
+      "ground_clearance_mm": 165,
+      "seat_capacity": 5,
+      "kerb_weight_kg": 1200,
+      "fuel_tank_capacity_l": 40
+    },
+    "performance": {
+      "top_speed_kmph": 180,
+      "mileage_kmpl": 17
+    },
+    "features": {
+      "safety": ["6 Airbags", "ABS", "EBD", "BA"],
+      "comfort": ["Sunroof", "Leather Seats", "Automatic AC"],
+      "technology": ["7-inch Touchscreen", "Apple CarPlay", "Android Auto"]
+    },
+    "pricing": {
+      "ex_showroom_inr": 1650000,
+      "on_road_inr": 1850000
+    },
+    "availability": {
+      "in_stock": true,
+      "delivery_time_days": 15
+    },
+    "images": {
+      "thumbnail": "https://images.unsplash.com/photo-1549317336-206569e8475c?w=400",
+      "gallery": [
+        "https://images.unsplash.com/photo-1549317336-206569e8475c?w=800",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800"
+      ]
+    },
+    "ratings": {
+      "expert_rating": 4.5,
+      "user_rating": 4.3,
+      "reviews_count": 2100
+    }
+  },
+  {
+    "id": "C004",
+    "category": "Car",
+    "sub_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "brand": "Maruti Suzuki",
+    "model": "Swift",
+    "variant": "ZXI",
+    "year": 2024,
+    "engine": {
+      "capacity_cc": 1197,
+      "cylinders": 4,
+      "cooling": "Water-cooled",
+      "max_power_bhp": 90,
+      "max_torque_nm": 113,
+      "fuel_system": "K12C Dual Jet"
+    },
+    "battery": null,
+    "dimensions": {
+      "length_mm": 3845,
+      "width_mm": 1735,
+      "height_mm": 1530,
+      "wheelbase_mm": 2450,
+      "ground_clearance_mm": 163,
+      "seat_capacity": 5,
+      "kerb_weight_kg": 950,
+      "fuel_tank_capacity_l": 37
+    },
+    "performance": {
+      "top_speed_kmph": 160,
+      "mileage_kmpl": 23
+    },
+    "features": {
+      "safety": ["Dual Airbags", "ABS", "EBD"],
+      "comfort": ["Automatic AC", "Power Steering", "Central Locking"],
+      "technology": ["Smartplay Studio", "Bluetooth", "USB Port"]
+    },
+    "pricing": {
+      "ex_showroom_inr": 750000,
+      "on_road_inr": 850000
+    },
+    "availability": {
+      "in_stock": true,
+      "delivery_time_days": 10
+    },
+    "images": {
+      "thumbnail": "https://images.unsplash.com/photo-1549317336-206569e8475c?w=400",
+      "gallery": [
+        "https://images.unsplash.com/photo-1549317336-206569e8475c?w=800",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800"
+      ]
+    },
+    "ratings": {
+      "expert_rating": 4.4,
+      "user_rating": 4.2,
+      "reviews_count": 3500
+    }
+  },
+  {
+    "id": "B005",
+    "category": "Bike",
+    "sub_type": "Electric",
+    "fuel_type": "Electric",
+    "brand": "Revolt",
+    "model": "RV 400",
+    "variant": "Standard",
+    "year": 2024,
+    "engine": null,
+    "battery": {
+      "capacity_kwh": 3.24,
+      "charging_time_hours": 4.5,
+      "fast_charging": true,
+      "range_km": 150
+    },
+    "dimensions": {
+      "length_mm": 2150,
+      "width_mm": 815,
+      "height_mm": 1080,
+      "wheelbase_mm": 1350,
+      "ground_clearance_mm": 215,
+      "seat_height_mm": 815,
+      "kerb_weight_kg": 108
+    },
+    "performance": {
+      "top_speed_kmph": 85,
+      "mileage_kmpl": null
+    },
+    "features": {
+      "safety": ["Regenerative Braking", "LED Headlight"],
+      "comfort": ["Digital Display", "Mobile App Control"],
+      "technology": ["AI Voice Commands", "Geo-fencing", "Battery Swapping"]
+    },
+    "pricing": {
+      "ex_showroom_inr": 125000,
+      "on_road_inr": 140000
+    },
+    "availability": {
+      "in_stock": true,
+      "delivery_time_days": 12
+    },
+    "images": {
+      "thumbnail": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=400",
+      "gallery": [
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800",
+        "https://images.unsplash.com/photo-1593941707882-a5bac6861d75?w=800"
+      ]
+    },
+    "ratings": {
+      "expert_rating": 4.1,
+      "user_rating": 3.9,
+      "reviews_count": 450
+    }
+  },
+  {
+    "id": "S004",
+    "category": "Scooter",
+    "sub_type": "Electric",
+    "fuel_type": "Electric",
+    "brand": "Ather",
+    "model": "450X",
+    "variant": "Pro Pack",
+    "year": 2024,
+    "engine": null,
+    "battery": {
+      "capacity_kwh": 2.9,
+      "charging_time_hours": 4.5,
+      "fast_charging": true,
+      "range_km": 85
+    },
+    "dimensions": {
+      "length_mm": 1900,
+      "width_mm": 720,
+      "height_mm": 1200,
+      "wheelbase_mm": 1300,
+      "ground_clearance_mm": 170,
+      "seat_height_mm": 780,
+      "kerb_weight_kg": 108
+    },
+    "performance": {
+      "top_speed_kmph": 80,
+      "mileage_kmpl": null
+    },
+    "features": {
+      "safety": ["Regenerative Braking", "LED Headlight"],
+      "comfort": ["7-inch Touchscreen", "Mobile App"],
+      "technology": ["Over-the-Air Updates", "Navigation", "Bluetooth"]
+    },
+    "pricing": {
+      "ex_showroom_inr": 145000,
+      "on_road_inr": 160000
+    },
+    "availability": {
+      "in_stock": true,
+      "delivery_time_days": 14
+    },
+    "images": {
+      "thumbnail": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=400",
+      "gallery": [
+        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800",
+        "https://images.unsplash.com/photo-1593941707882-a5bac6861d75?w=800"
+      ]
+    },
+    "ratings": {
+      "expert_rating": 4.5,
+      "user_rating": 4.3,
+      "reviews_count": 1200
+    }
+  }
+]
